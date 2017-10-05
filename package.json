@@ -1,0 +1,18 @@
+{
+  "name": "FartCoin",
+  "version": "1.0.0",
+  "description": "FartCoin",
+  "main": "peer.js",
+  "dependencies": {
+    "express": "4.16.0",
+    "js-sha256": "0.6.0",
+    "request": "2.83.0",
+    "sha": "2.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
